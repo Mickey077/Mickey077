@@ -13,6 +13,8 @@ cloud infrastructure, intelligent systems, and user experience.
 ---
 
 </div>
+
+
 <div align="center">
 
   <img src="Assets/output.gif" alt="Featured Project Demo" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
