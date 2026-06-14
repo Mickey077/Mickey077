@@ -1,53 +1,189 @@
-<!-- Header Section -->
-<h1 align="center"><font face="Arial">Heya 👋, I'm Burhan, but most people know me as. <a href="https://www.youtube.com/@RedMickey666/">Mickey</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/Burhanuddin-Shakur/" target="_blank" rel="noreferrer">Mickey</a> is a passionate Software Developer from India, exploring modern web technologies, cloud computing, and open-source development. Always eager to learn, build, and collaborate on exciting projects..</font></h3>
 
-<!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
-<p align="left">
-  <a href="https://wa.link/tom9kj" target="_blank" rel="noreferrer"> Book a Call with me! </a>
-</p>
+<div align="center">
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+# Heya 👋, I'm **Mickey**
 
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+### *Full-Stack Developer | AI Engineer | System Design Enthusiast*
+
+```
+Building elegant solutions at the intersection of 
+cloud infrastructure, intelligent systems, and user experience.
+```
+
+---
+
+</div>
+<div align="center">
+
+  <img src="Assets/output.gif" alt="Featured Project Demo" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+</div>
+
+---
+
+## 👨‍💻 About Me
+<img align="right" height="400" width="300" alt="VID_20260614183915-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a7758bcd-637c-49e6-a463-8993d44c6aa7" />
+I'm a full-stack developer and AI engineer passionate about architecting scalable systems and leveraging large language models to solve real-world problems. With expertise spanning from backend infrastructure to modern frontend frameworks, I specialize in building production-grade applications that combine cutting-edge technology with exceptional user experience.
+
+### 🚀 Currently Working On
+
+- **Building AI-powered applications** with advanced prompt engineering and vector database integrations
+- **Architecting cloud-native infrastructure** on AWS with containerized microservices
+- **Exploring system design patterns** for high-availability, low-latency distributed systems
+- **Contributing to open-source** projects in the Python and AI/ML ecosystem
+
+### 💻 Tech Stack
+
+```
+Backend:     Python, Django, FastAPI, REST APIs, gRPC
+Frontend:    React, TypeScript, Tailwind CSS, Next.js
+Cloud:       AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes
+Databases:   PostgreSQL, MongoDB, Redis, Vector DBs
+AI/ML:       LLMs, Prompt Engineering, RAG, Embeddings, Fine-tuning
+DevOps:      CI/CD, Docker, Docker Compose, GitHub Actions
+```
+
+### 🎯 Ask Me About
+
+- **System Design**: Database optimization, caching strategies, microservices architecture
+- **AI Integration**: Building production LLM applications, prompt optimization, vector search
+- **Cloud Architecture**: Scalable AWS deployments, containerization, monitoring
+- **API Design**: RESTful APIs, GraphQL, rate limiting, authentication patterns
+- **Performance**: Database indexing, query optimization, async processing
+
+### 📢 Content & Community
+
+Sharing knowledge through:
+- Technical blog posts on AI, backend development, and system design
+- Open-source contributions and project documentation
+- Code walkthroughs and architecture deep-dives
+
+---
+
+## 🛠️ Skills & Technologies
+
+### **Backend Development**
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge" alt="REST API">
+</div>
+
+### **Frontend Development**
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+</div>
+
+### **Cloud & DevOps**
+<div>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
+</div>
+
+### **Databases & Caching**
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Vector_DB-FF6B9D?style=for-the-badge" alt="Vector DB">
+</div>
+
+### **AI & Machine Learning**
+<div>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-00D4FF?style=for-the-badge" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/RAG-FFB81C?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/Embeddings-6C5CE7?style=for-the-badge" alt="Embeddings">
+</div>
+
+### **Tools & Utilities**
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mickey077&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff" alt="GitHub Stats" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickey077&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages" width="48%">
+
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mickey077&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&dates=8b949e" alt="GitHub Streak" width="48%">
+
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mickey077&theme=tokyonight&column=7&no-frame=true&no-bg=true" alt="Trophy" width="100%">
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### Reach Out & Collaborate
+
+<a href="https://github.com/Mickey077" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://linkedin.com/in/burhanuddin-shakur" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://instagram.com/Burhan_shakur" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="mailto:shakurwalaburhanuddin@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/Mickey077" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+</a>
+
+---
+
+### 💬 Open to Opportunities
+
+I'm always interested in connecting with:
+- **Technical teams** building scalable, impactful systems
+- **Startups** leveraging AI and cloud technologies
+- **Collaborators** on open-source projects
+- **Mentees** looking to grow in backend/AI development
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+
+```
+while (learning) {
+    stay curious | keep building | share knowledge;
+}
+```
+
+<img src="https://komarev.com/ghpvc/?username=Mickey077&style=flat-square&color=58a6ff" alt="Profile views">
+
+---
+
+**Made with ❤️ by Mickey** | Last Updated: 2026
+<img width="1872" height="1872" alt="image" src="https://github.com/user-attachments/assets/cb64ae11-1233-4ad3-9f8c-0bd81716156f" />
 
 
-I'm a computer science student, Exploring here and there
-
-
-
-#### Programming Language Stack
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
-
-#### OS Stack
-<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
-
-#### Database Stack
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> </p>
-
-#### Dev Stack
-<p align="left"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/> </p>
-
-#### DevOps Stack 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" title="circleci" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="codeship" title="codeship" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="bamboo" title="bamboo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> </p>
-
-#### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
-
-#### Editor / IDE I ♥
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
-
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
-</p>
-
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me **[shakurwalaburhanuddin@gmail.com]**
-- ⚡ Fun fact **I create 6 Figures**
-
-
-
+</div>
