@@ -17,13 +17,15 @@ cloud infrastructure, intelligent systems, and user experience.
 
 <div align="center">
 
-  <img src="Assets/output.gif" alt="Featured Project Demo" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+<img width="700" height="150" alt="03231d6a61d89a68fd520452d3402a3c" src="https://github.com/user-attachments/assets/1a50576c-e833-4b50-8f49-f01e415a4e08" />
+
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-<img align="right" height="400" width="300" alt="VID_20260614183915-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a7758bcd-637c-49e6-a463-8993d44c6aa7" />
+<img align="right" height="400" width="330" alt="VID_20260614183915-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a7758bcd-637c-49e6-a463-8993d44c6aa7" />
 I'm a full-stack developer and AI engineer passionate about architecting scalable systems and leveraging large language models to solve real-world problems. With expertise spanning from backend infrastructure to modern frontend frameworks, I specialize in building production-grade applications that combine cutting-edge technology with exceptional user experience.
 
 ### 🚀 Currently Working On
