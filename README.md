@@ -37,17 +37,6 @@ I'm a full-stack developer and AI engineer passionate about architecting scalabl
 - **Exploring system design patterns** for high-availability, low-latency distributed systems
 - **Contributing to open-source** projects in the Python and AI/ML ecosystem
 
-### 💻 Tech Stack
-
-```
-Backend:     Python, Django, FastAPI, REST APIs, gRPC
-Frontend:    React, TypeScript, Tailwind CSS, Next.js
-Cloud:       AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes
-Databases:   PostgreSQL, MongoDB, Redis, Vector DBs
-AI/ML:       LLMs, Prompt Engineering, RAG, Embeddings, Fine-tuning
-DevOps:      CI/CD, Docker, Docker Compose, GitHub Actions
-```
-
 ### 🎯 Ask Me About
 
 - **System Design**: Database optimization, caching strategies, microservices architecture
