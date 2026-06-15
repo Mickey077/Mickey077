@@ -1,4 +1,5 @@
-<img width="891" height="500" alt="image" src="https://github.com/user-attachments/assets/a34d1bea-0f3b-42f3-ab87-33f05127ef9e" />
+<img width="891" height="300" alt="cyber-city-raining-pixel-art-di2s1n8qqnpmn6rb" src="https://github.com/user-attachments/assets/3683fbd0-83bc-4075-a189-4448ca817833" />
+
 
 <div align="center">
 
