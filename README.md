@@ -1,4 +1,5 @@
-<img width="891" height="300" alt="cyber-city-raining-pixel-art-di2s1n8qqnpmn6rb-ezgif com-optimize" src="https://github.com/user-attachments/assets/14cfb5b5-7582-414a-9e2b-bb61bcdaf6c8" />
+<img width="1678" height="584" alt="8dd7e91ae4c73f27054ca0fb43bc80e3-ezgif com-crop" src="https://github.com/user-attachments/assets/70e4993f-7125-477b-a6dc-3e219e1b4663" />
+
 
 
 <div align="center">
